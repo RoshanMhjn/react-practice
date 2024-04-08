@@ -1,0 +1,26 @@
+.card {
+  border: 3px solid rgb(174, 217, 217);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  margin: auto;
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: azure;
+  box-shadow: 5px 5px 20px rgb(142, 134, 134);
+  cursor: pointer;
+}
+
+.card img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.card p {
+  font-weight: 500;
+  font-family: "Times New Roman", Times, serif;
+}

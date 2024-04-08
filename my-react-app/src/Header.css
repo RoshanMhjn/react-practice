@@ -1,0 +1,14 @@
+.header nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  background: cadetblue;
+  padding: 1rem;
+  font-weight: 800;
+  font-family: monospace;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
